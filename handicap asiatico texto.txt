@@ -1,0 +1,6 @@
+como funciona o handcap asiatico:
+ handicap asiatico nada mais é do que você dar a vantagem de gols para um time, "a mais como assim?" simples se você escolher 
+ handicap asiatico -1 para um time você estara dizendo que o time ganhara por 2 gols de diferença ou seja 2x0, 3x0, 3x1,4x2 
+ qualquer placar que de mais de 1 gol de vantagem para o time q você escolheu se o for so 1 gol de vantagem o valor da aposta
+ retorna pra você!
+ ja o handicap + o time que você escolheu pode empatar o jogo pois você esta começando com o placar de 1x0 a seu favor 
